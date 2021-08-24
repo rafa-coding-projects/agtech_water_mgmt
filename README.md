@@ -1,6 +1,6 @@
 # Identification of water deficit in plants
 
-Data collection system developed for taking RGB, infra-red images and depth sensor data. The infra-red images are used to identify the clorophil generation activity on the leave which is an indirect indicator of water content. The system consists of an automated mechanical frame carrying the 2-DOF carts carrying the cameras driven by stepper motors. The system designa and code is open and can be checked [here](https://github.com/ARoS-NCSU/PlantPhenotypingPlatform). If this project is useful for you, please consider citing our work, which can be found [here](https://ieeexplore.ieee.org/abstract/document/9278711):
+Data collection system developed for taking RGB, infra-red images and depth sensor data. The infra-red images are used to identify the clorophil generation activity on the leave which is an indirect indicator of water content. The system consists of an automated mechanical frame carrying the 2-DOF carts carrying the cameras driven by stepper motors. The system design and code is open and can be checked [here](https://github.com/ARoS-NCSU/PlantPhenotypingPlatform). If this project is useful for you, please consider citing our work, which can be found [here](https://ieeexplore.ieee.org/abstract/document/9278711):
 
 *R. L. da Silva et al., "Feasibility Study of Water Stress Detection in Plants using a High-Throughput Low-Cost System," 2020 IEEE SENSORS, 2020, pp. 1-4, doi: 10.1109/SENSORS47125.2020.9278711.*
 
@@ -16,4 +16,8 @@ Data collection system developed for taking RGB, infra-red images and depth sens
   doi={10.1109/SENSORS47125.2020.9278711}}
 ```
 ![](https://github.com/rafa-coding-projects/agtech_water_mgmt/blob/main/pics/image_proc.png)
-![](https://github.com/rafa-coding-projects/agtech_water_mgmt/blob/main/pics/PDC_full.png)|![](https://github.com/rafa-coding-projects/agtech_water_mgmt/blob/main/pics/Untitled_Artwork2.jpg | width=100)
+![](https://github.com/rafa-coding-projects/agtech_water_mgmt/blob/main/pics/PDC_full.png)|![](https://github.com/rafa-coding-projects/agtech_water_mgmt/blob/main/pics/Untitled_Artwork2.jpg) {
+  width: 70%;
+  border: none;
+  background: none;
+}
