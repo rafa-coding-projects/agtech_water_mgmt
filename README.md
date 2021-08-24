@@ -16,4 +16,4 @@ Data collection system developed for taking RGB, infra-red images and depth sens
   doi={10.1109/SENSORS47125.2020.9278711}}
 ```
 ![](https://github.com/rafa-coding-projects/agtech_water_mgmt/blob/main/pics/image_proc.png)
-![](https://github.com/rafa-coding-projects/agtech_water_mgmt/blob/main/pics/PDC_full.png)|![](https://github.com/rafa-coding-projects/agtech_water_mgmt/blob/main/pics/Untitled_Artwork2.jpg =714x960)
+![](https://github.com/rafa-coding-projects/agtech_water_mgmt/blob/main/pics/PDC_full.png)|![](https://github.com/rafa-coding-projects/agtech_water_mgmt/blob/main/pics/Untitled_Artwork2.jpg | width=100)
